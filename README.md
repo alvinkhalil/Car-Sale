@@ -1,4 +1,5 @@
-# Car=Sale
-This is Car Sale.
-Login:admin17
-password:admin
+# Car-Sale
+## This is Car Sale site for car buy and sale.
+## Login:
+#### Username:  admin17
+#### Password: admin
