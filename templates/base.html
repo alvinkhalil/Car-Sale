@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% include "includes/head.html" %}
+{% block title %}
+<title>Carzone|{% block title2 %} {% endblock title2 %} </title>
+{% endblock title %}
+</head>
+<body>
+{% include "includes/googlescript.html" %}
+{% include "includes/navbar.html" %}
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+
+        {% if message.tags == "info" %}
+        <li class="alert alert-danger">{{ message }}</li>
+        
+        {% else %}
+        <li class="alert alert-{{ message.tags }}">{{ message }}</li>
+
+        {% endif %}
+    
+    {% endfor %}
+</ul>
+{% endif %}
+
+{% block body %}
+      
+{% endblock body %}
+{% include "includes/footer.html" %}
+{% include "includes/search.html" %}
+{% include "includes/carover.html" %}
+{% include "includes/scripts.html" %}
+
+</body>
+</html>

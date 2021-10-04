@@ -1,0 +1,214 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$EXdgaH9WZWmmSLnBqpBl09$ZeKtS7oQ61am4asU/pLmT9pZw44rCZeyqhMmdgb47Qs=",
+        "last_login": "2021-09-09T18:07:24.558Z",
+        "is_superuser": true,
+        "username": "alvin",
+        "first_name": "",
+        "last_name": "",
+        "email": "alvinkhalil@outlook.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-09-09T13:43:55.448Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$SdnoDCQeduZU67vxkCxO5q$f8oYdFXFhLsGAX6m230DVbtoCJ/seCB+FIYPh67SJLw=",
+        "last_login": "2021-09-14T12:35:56.112Z",
+        "is_superuser": true,
+        "username": "elvin",
+        "first_name": "",
+        "last_name": "",
+        "email": "elvin@od.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-09-14T08:56:51.047Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$k2KSAhR1fFf0xZOSsqXpYL$xVezxU1NHahyOm5pfPh4E7n5yqatSmjLBeV7OTdqlog=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Elvin",
+        "first_name": "Elvin",
+        "last_name": "Amin",
+        "email": "elvin@mail.ru",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-14T11:03:27.205Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$vBdjnWNsg75OCjBdi2c3ob$44WfDFc2ObYUxYJXDtdAZqNUVTuy4BfRkAqr5SvlEGM=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "NAMIQ18",
+        "first_name": "Namiq",
+        "last_name": "Abbasov",
+        "email": "AMIN@mail.ru",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-14T11:07:54.445Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$mcV1g0bm4lrPFaAAeBMa9m$pkMfLPLoNp5yMaoqi9rWcB8riVMBlkT2RftSAwE1CE0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "admin",
+        "first_name": "Elvin",
+        "last_name": "Amin",
+        "email": "xelilli72@mail.ru",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-14T11:13:18.007Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$kYAmHS7VMjd51rjwHpSW2I$R0Jt/RVQTjMM19do+e/5CMIudeOmWWk8MqOHeXa6qxY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "asdasdas",
+        "first_name": "asdasd",
+        "last_name": "asdasd",
+        "email": "asdj@mail.ru",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-14T11:23:13.484Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Nv0lOojk6n6J9BuQljVrxO$fy6Bpu3TRU/Kb1aLF3TVeS++xeLUnfO7qeu0pyJmjRk=",
+        "last_login": "2021-09-16T11:31:03.754Z",
+        "is_superuser": true,
+        "username": "admin1",
+        "first_name": "Elvin",
+        "last_name": "Xelilov",
+        "email": "admi1@mail.ru",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-09-14T12:47:28Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!bMpuDzRylANQAVuxnRAs7a8wWGHLMuj2Htlu8gM5",
+        "last_login": "2021-09-15T10:22:09.838Z",
+        "is_superuser": false,
+        "username": "elvin2",
+        "first_name": "Elvin",
+        "last_name": "Khalilov",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-14T15:46:37.316Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$0O5h1pr5A819A3ucEo7dp0$f52jPIMzz2Z9LzWou2Eprh53NreVVeowOhZ2Oz4unLE=",
+        "last_login": "2021-09-16T11:17:29.835Z",
+        "is_superuser": true,
+        "username": "admin123",
+        "first_name": "Murad",
+        "last_name": "Eliyev",
+        "email": "admin@mail.ru",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-09-16T09:22:06Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$flLHHbLhtpOsGZeSZtVXaP$N2rTvXzRRK20nC4clYAA/1RFfSzF4IJboY76TXIbsFY=",
+        "last_login": "2021-09-16T09:34:27.852Z",
+        "is_superuser": false,
+        "username": "asmk",
+        "first_name": "Lakin",
+        "last_name": "Amma",
+        "email": "a22sdj@mail.ru",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-09-16T09:34:27.653Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9qj93i40vpla44wzrn6fkuif9x2wspx1",
+    "fields": {
+        "session_data": ".eJxVjDsOgzAQRO_iOrJgzfqTMj1nsNZeOyaJjIShinL3gESRlDPvzbyFp20tfmtp8ROLq3Di8tsFis9UD8APqvdZxrmuyxTkociTNjnOnF630_07KNTKvsbQ0RAYB1AWEms0SluHFjmkvjM5ZATOAECk2BoFTL12DA6iiXsQny_bWTfV:1mQpM6:Dl0YNmdL4rTnLH9CRXILKiwQ4nfyqEpudHp0NUEOamE",
+        "expire_date": "2021-09-30T11:15:02.167Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "htx54mp6xhkc1xjuj1t24etnp1h7b96n",
+    "fields": {
+        "session_data": "e30:1mQAeZ:pVJn3AOMdDbyEKBP1qW2-KGeUcKygiZ1E7g7jQgQUFc",
+        "expire_date": "2021-09-28T15:47:23.254Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ixiyb4y8dhq7dp7qyyojwnrtn3qksiry",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSEzLVBw6d5vIDM8pGogKe3K-O_apAvd3nPOfQlP21r81tPi5yjOYhKn340pPFLdQbxTvTUZWl2XmeWuyIN2eW0xPS-H-3dQqJdvDcSAMDoMOOgYHWV0OiBNihWbHKw1gEg0YtBgTdKjtg7UwNZmYxyL9wfPVDcJ:1mQpbb:8h4yn7FT-GvGRSgQKEg12zMxtkemjYjq4rl1JbvDYyw",
+        "expire_date": "2021-09-30T11:31:03.756Z"
+    }
+},
+{
+    "model": "pages.teams",
+    "pk": 1,
+    "fields": {
+        "first_name": "Cavid",
+        "last_name": "Abbasov",
+        "designation": "Dizayner",
+        "photo": "photos/teams/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "instagram_link": "https://www.instagram.com/",
+        "created_date": "2021-09-09T18:30:50.608Z"
+    }
+},
+{
+    "model": "pages.teams",
+    "pk": 2,
+    "fields": {
+        "first_name": "Murad",
+        "last_name": 
